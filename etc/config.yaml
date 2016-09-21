@@ -1,0 +1,8 @@
+### Reference
+#-  path: '/path/to/log/log_file%Y_%m_%d_%H_%M.log'
+#   color: 'blue'
+#   option:
+#     key: 'value'
+#     key2: 'value2'
+- path: '/path/to/tail.log'
+  color: 'red'
